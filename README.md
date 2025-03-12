@@ -1,1 +1,1 @@
-# EduNexus
+# EduNexus - AI Research Assistant
